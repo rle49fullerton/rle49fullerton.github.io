@@ -11,8 +11,8 @@ My GitHub page is http://github.com/rle49fullerton.
 * Lab 9
 
     I chose Lab 9, part 2 as a favorite because I got to write a program that
-    wrote to a file and another to read from it. I enjoyed using these function
-    -alities to implement a game of guessing a secret number.
+    wrote to a file and another to read from it. I enjoyed using these
+    functionalities to implement a game of guessing a secret number.
 
 * Lab 10
 
